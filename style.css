@@ -30,9 +30,9 @@ body {
   overflow: hidden;
 }
 
-.home-container:hover {
+/* .home-container:hover {
   scale: 1.1;
-}
+} */
 .home-container h1 {
   margin: 20px;
   position: absolute;
